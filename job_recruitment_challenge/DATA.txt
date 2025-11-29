@@ -1,0 +1,48 @@
+10	M – dalyvių skaičius
+1 15 20 22 5 9	K – žaidimo kategorija, surinkti taškai
+5 0 6 12 14 5	K – žaidimo kategorija, surinkti taškai
+2 12 12 5 14 13	K – žaidimo kategorija, surinkti taškai
+7 1 1 9 6 7	K – žaidimo kategorija, surinkti taškai
+8 11 17 15 13 9	K – žaidimo kategorija, surinkti taškai
+10 12 20 13 14 16	K – žaidimo kategorija, surinkti taškai
+2 11 12 11 14 9	K – žaidimo kategorija, surinkti taškai
+4 12 16 14 12 16	K – žaidimo kategorija, surinkti taškai
+1 9 6 8 7 12	K – žaidimo kategorija, surinkti taškai
+9 11 12 11 15 16	K – žaidimo kategorija, surinkti taškai
+~
+11	M – dalyvių skaičius
+3 11 25 6 14 3	
+5 20 20 15 4 9	K – žaidimo kategorija, surinkti taškai
+8 10 16 1 4 15	K – žaidimo kategorija, surinkti taškai
+3 11 2 15 4 1	K – žaidimo kategorija, surinkti taškai
+1 11 12 8 12 17	K – žaidimo kategorija, surinkti taškai
+9 10 7 3 3 8	K – žaidimo kategorija, surinkti taškai
+9 2 2 3 4 6	K – žaidimo kategorija, surinkti taškai
+10 13 22 7 4 19	K – žaidimo kategorija, surinkti taškai
+3 2 6 4 2 6	K – žaidimo kategorija, surinkti taškai
+2 5 12 9 7 2	K – žaidimo kategorija, surinkti taškai
+1 12 12 12 15 17	K – žaidimo kategorija, surinkti taškai
+~
+3	M – dalyvių skaičius
+1 1 2 2 3 8	K – žaidimo kategorija, surinkti taškai
+5 10 12 13 5 5	K – žaidimo kategorija, surinkti taškai
+2 10 10 15 4 3	K – žaidimo kategorija, surinkti taškai
+~
+9	M – dalyvių skaičius
+1 15 20 22 5 9	K – žaidimo kategorija, surinkti taškai
+3 0 6 12 14 5	K – žaidimo kategorija, surinkti taškai
+5 2 2 3 4 6	K – žaidimo kategorija, surinkti taškai
+7 1 1 9 6 7	K – žaidimo kategorija, surinkti taškai
+9 10 10 15 4 3	K – žaidimo kategorija, surinkti taškai
+2 12 20 13 14 16	K – žaidimo kategorija, surinkti taškai
+4 11 12 11 14 9	K – žaidimo kategorija, surinkti taškai
+6 1 2 2 3 8	K – žaidimo kategorija, surinkti taškai
+8 11 2 15 4 1	K – žaidimo kategorija, surinkti taškai
+~
+5	M – dalyvių skaičius
+1 0 6 12 14 5	K – žaidimo kategorija, surinkti taškai
+2 1 2 2 3 8	K – žaidimo kategorija, surinkti taškai
+12 13 22 7 4 19	K – žaidimo kategorija, surinkti taškai
+4 1 1 9 6 5	K – žaidimo kategorija, surinkti taškai
+5 12 12 5 14 13	K – žaidimo kategorija, surinkti taškai
+
